@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1662998324417" clover="3.2.0">
+  <project timestamp="1662998324417" name="All files">
+    <metrics statements="28" coveredstatements="21" conditionals="8" coveredconditionals="4" methods="8" coveredmethods="7" elements="44" coveredelements="32" complexity="0" loc="28" ncloc="28" packages="1" files="2" classes="2"/>
+    <file name="gradeCalculations.js" path="/mnt/g/2022_Course_idCamp - on going/dicoding - javascript - material/16. javascript testing - jest/gradeCalculations.js">
+      <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="3" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="12" type="stmt"/>
+      <line num="3" count="3" type="cond" truecount="1" falsecount="1"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="11" count="2" type="stmt"/>
+      <line num="13" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="18" count="1" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+    <file name="gradeCalculations2.js" path="/mnt/g/2022_Course_idCamp - on going/dicoding - javascript - material/16. javascript testing - jest/gradeCalculations2.js">
+      <metrics statements="14" coveredstatements="7" conditionals="4" coveredconditionals="1" methods="4" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="5" count="4" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="13" count="0" type="cond" truecount="0" falsecount="2"/>
+      <line num="14" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="22" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>

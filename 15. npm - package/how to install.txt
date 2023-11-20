@@ -1,0 +1,5 @@
+npm install lodash
+npm install jest --save-dev
+
+npm uninstall lodash
+npm uninstall jest --save-dev
